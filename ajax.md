@@ -2,6 +2,7 @@
 Ajax 和 jQuery中的Ajax 的理解和使用
 ---
 ##一、什么是Ajax
+
 Ajax 是 Asynchronous JavaScript And XML 的缩写，即异步JavaScript 和 XML 技术。用来实现与服务器进行异步交互的功能。
 
 Ajax 和 jQuery中的Ajax 都是针对浏览器无状态情况下的解决方案，jQuery中的Ajax 是对Ajax的封装。
